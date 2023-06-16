@@ -23,7 +23,7 @@ I was successful in creating a dependable system that work well with current sal
 ## CONTRIBUTIONS
 Contributions are encouraged on this project please open an issue or submit a pull request if you have any recommendations, feature requests, or bug fixes.
 ## LICENSE
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the APACHE License. See the https://github.com/Pojakovo/Anomaly-detection/edit/main/LICENSE#:~:text=.gitignore-,LICENSE,-README.md file for more information.
 ## CONTACT
 Feel free to also reach me on preciouslouis1990@gmail.com, https://www.linkedin.com/in/precious-ojakovo-565682236
 ## FINAL WORDS
